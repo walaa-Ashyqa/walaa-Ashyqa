@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @walaa-Ashyqa
-- 👀 I’m interested in web development
+- 👋 Hi, I’m @walaa-Ashyqa ,palestine
+- 👀 I’m interested in web design & development
 - 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 wala.hashayki@gmail.com
 
 <!---
 walaa-Ashyqa/walaa-Ashyqa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
